@@ -1,0 +1,18 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cucumber": "^8.3.0",
+    "@cucumber/gherkin": "^14.0.0",
+    "selenium-webdriver": "^4.10.0",
+    "fs": "^0.0.1-security"
+  }
+}
